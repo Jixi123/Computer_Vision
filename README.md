@@ -9,6 +9,4 @@ Compilation of assignments from the CV class at CMU. Click into each assignment 
 
 ### HW4: Scene Recognition 
 
-### HW5: Neural Networks 
-
-### HW6: Video Tracking
+### HW5: Video Tracking
