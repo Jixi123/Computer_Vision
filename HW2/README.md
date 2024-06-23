@@ -23,9 +23,10 @@ Next, we were tasked to do something similar but with a video instead. The first
 
 Finally, for extra credit, we were tasked with creating a script that took two images and stitched them together to create a panorama. I took the images below myself right outside of my dorm building in the courtyard.
 
-#### The two original images  
-<img src="https://github.com/Jixi123/Computer_Vision/assets/86895390/e2ba0fae-596c-4fa5-abd4-e8d419a7bddd" width="20%" height="20%">
+#### Left Image  
+<img src="https://github.com/Jixi123/Computer_Vision/assets/86895390/e2ba0fae-596c-4fa5-abd4-e8d419a7bddd" width="20%" height="20%">  
 
+#### Right Image  
 <img src = "https://github.com/Jixi123/Computer_Vision/assets/86895390/ce7f2d8b-b26e-44b3-b030-59bf818859a7" width = "20%" height = "20%">
 
 #### final result  
